@@ -1,4 +1,6 @@
 # AZON_AHK_Bot
+WARNING: according to https://giveaway.amazon.com/rules If your entry is incomplete or if you use robotic, automatic, programmed or similar entry methods, your entry will be disqualified.
+
 Learning some Auto Hot Key by making an amazon giveaway bot
 
 This bot uses a third party site to get the giveaways and mostly hotkeys and mouse to get around
